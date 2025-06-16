@@ -1,5 +1,7 @@
 Manifest-Version: 1.0
-Built-By: hp
-Build-Jdk: 17
+Build-Jdk-Spec: 21
+Implementation-Title: Spring Boot Simple Sample
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor: Pivotal Software, Inc.
 Created-By: Maven Integration for Eclipse
 

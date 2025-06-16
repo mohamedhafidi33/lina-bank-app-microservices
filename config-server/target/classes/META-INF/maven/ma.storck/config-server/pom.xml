@@ -7,7 +7,7 @@
 		<!-- Your own application should inherit from spring-boot-starter-parent -->
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
-		<version>1.0.2.RELEASE</version>
+		<version>3.1.5</version>
 	</parent>
 	<artifactId>config-server</artifactId>
 	<groupId>ma.storck</groupId>
